@@ -7,7 +7,7 @@ from aiogram.filters.command import Command
 
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token="", parse_mode="HTML")
+bot = Bot(token="7084418916:AAEpAmbE0rrDI1TenMiQtTs0Uwn8LroAUxI", parse_mode="HTML")
 dp = Dispatcher()
 
 
