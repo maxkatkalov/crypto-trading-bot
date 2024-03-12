@@ -75,7 +75,7 @@ The bot has been in production since January 28. The trading result for January 
 <em>The amount of historical data in the database is more than <u>40 million rows</u>.</em>
 
 > An example of backtesting trades:
-![Screenshot 2024-03-12 at 11.54.11.png](..%2FScreenshot%202024-03-12%20at%2011.54.11.png)
+![Screenshot 2024-03-12 at 11.54.11.png](demo/Screenshot 2024-03-12 at 11.54.11.png)
 
 ### Investing 
 
